@@ -5,7 +5,7 @@
     "@truffle/hdwallet-provider": "^1.6.0",
     "truffle-hdwallet-provider": "^1.0.17"
   },
-  "name": "token-dev",
+  "name": "token-developer",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
