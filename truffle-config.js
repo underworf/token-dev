@@ -15,7 +15,7 @@
  * You'll also need a mnemonic - the twelve word phrase the wallet uses to generate
  * public/private key pairs. If you're publishing your code to GitHub make sure you load this
  * phrase from a file you've .gitignored so it doesn't accidentally become public.
- *
+ *git remote add origin  https://underworf:regionforo123@github.com/underworf/token-dev.git
  */
 
 // const HDWalletProvider = require('@truffle/hdwallet-provider');
